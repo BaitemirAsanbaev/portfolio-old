@@ -16,7 +16,6 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 header {
   background-image: url(../assets/header.jpg);
@@ -27,8 +26,6 @@ header {
   .title {
     margin-top: 30px;
     transition: .3s ease-in;
-
-
     h1 {
       color: #fff;
       font-family: 'Macondo', cursive;
