@@ -1,4 +1,12 @@
 import portfolio from "../assets/portfolio.png"
+import music from "../assets/music.png"
+import tours from "../assets/tours.png"
+import keanu from "../assets/keanu.png"
+import kanye from "../assets/kanye.png"
+import dragon from "../assets/dragon.png"
+import kumara from "../assets/kumara.png"
+import karakol from "../assets/karakol.png"
+import apple from "../assets/apple.png"
 
 export const projects = [
   {
@@ -8,58 +16,53 @@ export const projects = [
     github: 'https://github.com/BaitemirAsanbaev/portfolio'
   },
   {
-    title: 'Portfolio',
-    img: portfolio,
-    link: 'https://baitemir.netlify.app/',
-    github: 'https://github.com/BaitemirAsanbaev/portfolio'
+    title: 'Music maker',
+    img: music,
+    link: 'https://melody-maker.netlify.app/',
+    github: 'https://github.com/BaitemirAsanbaev/music-maker'
   },
   {
-    title: 'Portfolio',
-    img: portfolio,
-    link: 'https://baitemir.netlify.app/',
-    github: 'https://github.com/BaitemirAsanbaev/portfolio'
+    title: 'Kyrgyz Tours',
+    img: tours,
+    link: 'https://kyrgyz-tour.netlify.app/',
+    github: 'https://github.com/BaitemirAsanbaev/kyrgyz-tours'
   },
   {
-    title: 'Portfolio',
-    img: portfolio,
-    link: 'https://baitemir.netlify.app/',
-    github: 'https://github.com/BaitemirAsanbaev/portfolio'
+    title: 'Keanu Weather',
+    img: keanu,
+    link: 'https://keanu-weather.netlify.app/',
+    github: 'https://github.com/BaitemirAsanbaev/keanu-weather'
   },
   {
-    title: 'Portfolio',
-    img: portfolio,
-    link: 'https://baitemir.netlify.app/',
-    github: 'https://github.com/BaitemirAsanbaev/portfolio'
+    title: 'Kanye Weatern',
+    img: kanye,
+    link: 'https://kanye-weatern.netlify.app/',
+    github: 'https://github.com/BaitemirAsanbaev/kanye-weatern'
+  },
+
+  {
+    title: 'Dragon',
+    img: dragon,
+    link: 'https://dragon-animation.netlify.app/',
+    github: 'https://github.com/BaitemirAsanbaev/dragon-animation'
   },
   {
-    title: 'Portfolio',
-    img: portfolio,
-    link: 'https://baitemir.netlify.app/',
-    github: 'https://github.com/BaitemirAsanbaev/portfolio'
+    title: 'Altyn Kumara',
+    img: kumara,
+    link: 'https://altyn-kumara.netlify.app/',
+    github: 'https://github.com/BaitemirAsanbaev/altyn-kumara'
   },
   {
-    title: 'Portfolio',
-    img: portfolio,
-    link: 'https://baitemir.netlify.app/',
-    github: 'https://github.com/BaitemirAsanbaev/portfolio'
+    title: 'Karakol tech',
+    img: karakol,
+    link: 'https://karakol-tech.netlify.app/',
+    github: 'https://github.com/BaitemirAsanbaev/karakol-tech'
   },
   {
-    title: 'Portfolio',
-    img: portfolio,
-    link: 'https://baitemir.netlify.app/',
-    github: 'https://github.com/BaitemirAsanbaev/portfolio'
-  },
-  {
-    title: 'Portfolio',
-    img: portfolio,
-    link: 'https://baitemir.netlify.app/',
-    github: 'https://github.com/BaitemirAsanbaev/portfolio'
-  },
-  {
-    title: 'Portfolio',
-    img: portfolio,
-    link: 'https://baitemir.netlify.app/',
-    github: 'https://github.com/BaitemirAsanbaev/portfolio'
+    title: 'Apple copy',
+    img: apple,
+    link: 'https://apple-layout.netlify.app/',
+    github: 'https://github.com/BaitemirAsanbaev/apple-copy'
   },
 
 ]
