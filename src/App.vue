@@ -1,9 +1,12 @@
 <template>
   <div class="App">
     <Header />
-    <Projects/>
-    <About/>
-    <Footer/>
+    <Projects />
+    <About />
+    <Footer />
+    <div class="curtain">
+      <a href="#nav"><img src="./assets/curtain.png" alt="curtain" /></a>
+    </div>
   </div>
 </template>
 
@@ -19,21 +22,28 @@ export default {
     About,
     Footer,
     Projects
-}
+  }
 }
 </script>
 
 <style lang="scss">
 @import url('https://fonts.googleapis.com/css2?family=Jura&family=Macondo&display=swap');
-body{
+
+body {
   margin: 0;
   padding: 0;
   background-color: #000;
 }
-*{
+
+* {
   box-sizing: border-box;
   transition: .3s ease-in;
   font-family: 'Jura', sans-serif;
+  scroll-behavior: smooth;
 }
-
+.curtain{
+  position: fixed;
+  bottom: 100px;
+  right: 100px;
+}
 </style>

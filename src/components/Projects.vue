@@ -1,6 +1,6 @@
 <template>
   <Title title="Projects" />
-  <div class="projects">
+  <div id="projects" class="projects">
     <div v-for=" el in projects" :key="el.title" class="card">
       <img :src="el.img" alt="alt" />
       <div class="title">{{ el.title }}</div>

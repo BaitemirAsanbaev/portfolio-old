@@ -1,5 +1,5 @@
 <template>
-  <footer>
+  <footer id="contacts">
     <Title title="Contact me"/>
     <ul>
       <li>
