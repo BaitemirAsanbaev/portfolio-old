@@ -25,7 +25,6 @@ header {
 
   .title {
     margin-top: 30px;
-    transition: .3s ease-in;
     h1 {
       color: #fff;
       font-family: 'Macondo', cursive;
@@ -33,7 +32,6 @@ header {
       margin: 0;
       font-size: 64px;
       font-weight: normal;
-      transition: .3s ease-in;
     }
 
     h1.big-title {

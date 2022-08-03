@@ -1,16 +1,19 @@
 <template>
   <div class="App">
     <Header />
+    <About/>
   </div>
 </template>
 
 <script>
 import Header from './components/Header.vue'
+import About from './components/About.vue'
 export default {
   name: 'App',
   components: {
-    Header
-  }
+    Header,
+    About
+}
 }
 </script>
 
@@ -23,6 +26,7 @@ body{
 }
 *{
   box-sizing: border-box;
+  transition: .3s ease-in;
   font-family: 'Jura', sans-serif;
 }
 
