@@ -18,7 +18,7 @@ export default {
 <style scoped lang="scss">
 nav {
   padding: 20px;
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto;
 
   ul {
