@@ -34,7 +34,7 @@ export const projects = [
     github: 'https://github.com/BaitemirAsanbaev/keanu-weather'
   },
   {
-    title: 'Kanye Weatern',
+    title: 'Kanye Western',
     img: kanye,
     link: 'https://kanye-western.netlify.app/',
     github: 'https://github.com/BaitemirAsanbaev/kanye-weatern'

@@ -1,12 +1,10 @@
 <template>
   <div class="App">
+    <Curtain />
     <Header />
     <Projects />
     <About />
     <Footer />
-    <div class="curtain">
-      <a href="#nav"><img src="./assets/curtain.png" alt="curtain" /></a>
-    </div>
   </div>
 </template>
 
@@ -15,13 +13,15 @@ import Header from './components/Header.vue'
 import About from './components/About.vue'
 import Footer from './components/Footer.vue'
 import Projects from './components/Projects.vue'
+import Curtain from './components/Curtain.vue'
 export default {
   name: 'App',
   components: {
     Header,
     About,
     Footer,
-    Projects
+    Projects,
+    Curtain
   }
 }
 </script>
@@ -40,10 +40,5 @@ body {
   transition: .3s ease-in;
   font-family: 'Jura', sans-serif;
   scroll-behavior: smooth;
-}
-.curtain{
-  position: fixed;
-  bottom: 100px;
-  right: 100px;
 }
 </style>
