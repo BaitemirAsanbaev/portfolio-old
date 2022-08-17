@@ -3,19 +3,19 @@
     <Title title="Contact me"/>
     <ul>
       <li>
-        <a href=""><img src="../assets/email-icon.svg" alt="email" /></a>
+        <a href="baitemir1706@gmail.com"><img src="../assets/email-icon.svg" alt="email" /></a>
       </li>
       <li>
-        <a href=""><img src="../assets/github-icon.svg" alt="github" /></a>
+        <a href="https://github.com/BaitemirAsanbaev"><img src="../assets/github-icon.svg" alt="github" /></a>
       </li>
       <li>
-        <a href=""><img src="../assets/linkedin-icon.svg" alt="linkedin" /></a>
+        <a href="https://www.linkedin.com/in/baitemir/"><img src="../assets/linkedin-icon.svg" alt="linkedin" /></a>
       </li>
       <li>
-        <a href=""><img src="../assets/instagram-icon.svg" alt="instagram" /></a>
+        <a href="https://www.instagram.com/baitemir_dev/"><img src="../assets/instagram-icon.svg" alt="instagram" /></a>
       </li>
       <li>
-        <a href=""><img src="../assets/telegram-icon.svg" alt="telegram " /></a>
+        <a href="https://t.me/baitemir17"><img src="../assets/telegram-icon.svg" alt="telegram " /></a>
       </li>
     </ul>
   </footer>
