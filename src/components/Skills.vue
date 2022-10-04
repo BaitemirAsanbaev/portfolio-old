@@ -1,5 +1,5 @@
 <template>
-  <Title title="Me skills" />
+  <Title title="My skills" />
   <div class="skills">
     <div v-for="i in skills" :key="i[0]">
       <Skill :skill= 'i'/>
